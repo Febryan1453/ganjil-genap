@@ -10,7 +10,9 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
+    "require": {
+        "febryan/check-even-odd": "^1.0"
+    },
     "autoload": {
         "psr-4": {
             "Ryan\\CheckEvenOdd\\": "src/"
